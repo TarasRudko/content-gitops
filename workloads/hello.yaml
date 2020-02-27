@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: tarasrudko/gitops:hellov1.0
+        image: tarasrudko/gitops:hellov1.1
